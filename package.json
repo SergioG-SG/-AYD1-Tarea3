@@ -1,0 +1,23 @@
+{
+  "name": "tarea3",
+  "version": "1.0.0",
+  "description": "Tarea3/Hoja2 Lab. Analisis y Diseño de Sistemas 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergioG-SG/-AYD1-Tarea3.git"
+  },
+  "author": "S;G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergioG-SG/-AYD1-Tarea3/issues"
+  },
+  "homepage": "https://github.com/SergioG-SG/-AYD1-Tarea3#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  }
+}
