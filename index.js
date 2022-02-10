@@ -13,5 +13,5 @@ console.log('Listening on port', port);
 //--------------------------------------------------Prueba---------------------------------------
 
 app.get('/', function (req, res) {
-  res.send("HotFix! 201503798")
+  res.send("BugFix! 201503798")
 });
